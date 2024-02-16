@@ -55,6 +55,27 @@ Select the repository provider. I select Github
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/fbdcbfb2-f4fd-4891-902f-9fcc59718f2a)
 
+## Review everything and click on the Create project button
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/1194b43b-6ff8-4f9c-af21-da2732bed579)
+
+Alternatively, you can check the resources getting created by CodeStar in the CloudFormation console.
+
+Navigate to CloudFormation by clicking on the Services menu at the top, under the Management & Governance section.
+
+Stack named codestar-webapp-go is getting created. Click on the Stack name to check out the resources and events.
+
+Switch to Events, Resources then Parameters tab to know more.
+
+Upon successful creation of stack named codestar-webapp-go, another stack will be created called as awscodestar-myproject-infrastructure
+
+Check out their Events, Resources, and Parameters section too.
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/bc0c928c-2321-435b-b738-366c71851788)
+
+
+
+
 
 
 
