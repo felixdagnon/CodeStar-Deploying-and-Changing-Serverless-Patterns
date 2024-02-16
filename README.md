@@ -74,14 +74,24 @@ Check out their Events, Resources, and Parameters section too.
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/bc0c928c-2321-435b-b738-366c71851788)
 
 
+## View the Web application
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/7410a9f2-e1e6-46e9-b69f-c9549f476b2a)
+
 ## Explore project resources created by CodeStar
 
 Lambda function: It contains the logic of the web service, IAM Role, and 1 IAM Policy, CodePipeline pipeline, CodeDeploy application 
 
 and CodeDeploy deployment group, CodeCommit repository, CodeBuild Project, CloudFormation stack, Amazon S3 bucket, API in API Gateway.
 
-
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/adc4a62b-73b1-4b37-bed7-a0e8cdc8972b)
+
+##  View the pipeline and differentes phases
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/aa46bb9b-9777-4810-8f31-3504da9e7ba3)
+
+
+
 
 
 
