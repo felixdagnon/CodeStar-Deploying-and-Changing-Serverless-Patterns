@@ -1,8 +1,8 @@
 # CodeStar-Deploying-and-Changing-Serverless-Patterns
 CodeStar Deploying and Changing Serverless Patterns
 
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/d1c4214d-4023-4d82-b4a0-5398b33b5eee)
 
-![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/e017ed3f-a750-48d1-a4ff-10b998459109)
 
 AWS CodeStar can be used to create, manage and work with software development projects. It helps in developing, building, and deploying applications on AWS with an AWS CodeStar Project.
 It brings togethers following AWS services-
@@ -13,7 +13,7 @@ AWS CloudFormation (Configuration Based Resource Creation)
 AWS CodePipeline (Managed CI/CD Pipeline)
 
 
-# # Architecture 
+# AWS Developer tools for CI/VCD
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/1b11632d-2649-469f-98fb-b525094418f7)
 
