@@ -105,7 +105,7 @@ click on the Search bar present and Select AWS Lambda as AWS Service, Web servic
 
 ## Set up your project:
 
-Project name: Enter python-codestar-apiMyProject
+Project name: Enter python-codestar-api
 
 Keep all the options as default and click on the Next button.
 
@@ -119,7 +119,8 @@ Select the repository provider. I select Codecommit
 
 ## Review everything and click on the Create project button
 
-![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/1194b43b-6ff8-4f9c-af21-da2732bed579)
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/6b266854-9e4e-49c8-83e0-e47be272cbfa)
+
 
 Alternatively, you can check the resources getting created by CodeStar in the CloudFormation console.
 
