@@ -76,9 +76,9 @@ Check out their Events, Resources, and Parameters section too.
 
 ## Explore project resources created by CodeStar
 
-Lambda function: It contains the logic of the web service, IAM Role, and 1 IAM Policy, CodePipeline pipeline, CodeDeploy application and CodeDeploy deployment group, 
+Lambda function: It contains the logic of the web service, IAM Role, and 1 IAM Policy, CodePipeline pipeline, CodeDeploy application 
 
-CodeCommit repository, CodeBuild Project, CloudFormation stack, Amazon S3 bucket, API in API Gateway.
+and CodeDeploy deployment group, CodeCommit repository, CodeBuild Project, CloudFormation stack, Amazon S3 bucket, API in API Gateway.
 
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/adc4a62b-73b1-4b37-bed7-a0e8cdc8972b)
