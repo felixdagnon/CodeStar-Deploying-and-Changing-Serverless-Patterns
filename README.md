@@ -90,7 +90,13 @@ and CodeDeploy deployment group, CodeCommit repository, CodeBuild Project, Cloud
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/aa46bb9b-9777-4810-8f31-3504da9e7ba3)
 
-# 2-Create a Project in AWS CodeStar using Codecommit reopsitory
+# 2-Create a Project in AWS CodeStar using Codecommit reopository
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/a4277040-a6c6-47c6-9e6b-bda282793540)
+
+
+
+
 
 
 
