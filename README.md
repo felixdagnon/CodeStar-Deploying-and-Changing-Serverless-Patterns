@@ -29,7 +29,7 @@ AWS CodePipeline (Managed CI/CD Pipeline)
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/65d2121a-3d16-48aa-8437-f47b1123df73)
 
-# 1-Create a Project in AWS CodeStar (MyProject)
+# 1-Create a Project in AWS CodeStar using Github reopsitory
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/37a9893c-d3c1-4d1c-8da6-d6b17e2d18ca)
 
@@ -89,6 +89,9 @@ and CodeDeploy deployment group, CodeCommit repository, CodeBuild Project, Cloud
 ##  View the pipeline and differentes phases
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/aa46bb9b-9777-4810-8f31-3504da9e7ba3)
+
+# 2-Create a Project in AWS CodeStar using Codecommit reopsitory
+
 
 
 
