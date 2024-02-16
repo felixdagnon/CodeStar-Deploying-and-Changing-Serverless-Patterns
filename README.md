@@ -126,15 +126,16 @@ Alternatively, you can check the resources getting created by CodeStar in the Cl
 
 Navigate to CloudFormation by clicking on the Services menu at the top, under the Management & Governance section.
 
-Stack named codestar-webapp-go is getting created. Click on the Stack name to check out the resources and events.
+Stack named python-codestar-api is getting created. Click on the Stack name to check out the resources and events.
 
 Switch to Events, Resources then Parameters tab to know more.
 
-Upon successful creation of stack named codestar-webapp-go, another stack will be created called as codestar-webapp-go-infrastructure
+Upon successful creation of stack named codestar-webapp-go, another stack will be created called as python-codestar-api-infrastructure
 
 Check out their Events, Resources, and Parameters section too.
 
-![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/bc0c928c-2321-435b-b738-366c71851788)
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/4b5cb33f-23b5-4e48-b9cd-b3dd265d1222)
+
 
 
 ## View the Web application
