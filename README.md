@@ -1,4 +1,4 @@
-# CodeStar-Deploying-and-Changing-Serverless-Patterns
+## CodeStar-Deploying-and-Changing-Serverless-Patterns
 
 CodeStar Deploying and Changing Serverless Patterns
 
@@ -21,13 +21,15 @@ AWS CloudFormation (Configuration Based Resource Creation)
 AWS CodePipeline (Managed CI/CD Pipeline)
 
 
-# AWS Developer tools for CI/CD
+## AWS Developer tools for CI/CD
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/1b11632d-2649-469f-98fb-b525094418f7)
 
-# Architecture Diagram
+## Architecture Diagram
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/65d2121a-3d16-48aa-8437-f47b1123df73)
+
+# 1-Create a Project in AWS CodeStar (MyProject)
 
 
 
