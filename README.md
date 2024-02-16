@@ -47,7 +47,7 @@ click on the Search bar present and Select AWS Lambda as AWS Service, Go Web ser
 
 ## Set up your project:
 
-Project name: Enter MyProject
+Project name: Enter codestar-webapp-go
 
 Keep all the options as default and click on the Next button.
 
@@ -96,27 +96,26 @@ and CodeDeploy deployment group, CodeCommit repository, CodeBuild Project, Cloud
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/a4277040-a6c6-47c6-9e6b-bda282793540)
 
-## Create service role
-
-![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/4e20d681-c7d1-4fa8-8b5a-58deabc55b3a)
-
-![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/e8494e71-fb26-488c-81e5-0ddffadee1d4)
-
 ## Choose a project template
 
-click on the Search bar present and Select AWS Lambda as AWS Service, Go Web service as the Application Type, and node.js in the Programming language.
+click on the Search bar present and Select AWS Lambda as AWS Service, Web service as the Application Type, and python in the Programming language.
 
-![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/7d2be176-6f31-4815-883b-f6c8d8cfa61a)
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/0992e4e4-bdce-45a9-af2a-0894018c9014)
+
 
 ## Set up your project:
 
-Project name: Enter MyProject
+Project name: Enter python-codestar-apiMyProject
 
 Keep all the options as default and click on the Next button.
 
-Select the repository provider. I select Github
+Select the repository provider. I select Codecommit
 
-![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/fbdcbfb2-f4fd-4891-902f-9fcc59718f2a)
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/3ae1e55d-b997-4b2d-a2e5-33048ddbc54f)
+
+
+
+
 
 ## Review everything and click on the Create project button
 
