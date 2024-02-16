@@ -67,7 +67,7 @@ Stack named codestar-webapp-go is getting created. Click on the Stack name to ch
 
 Switch to Events, Resources then Parameters tab to know more.
 
-Upon successful creation of stack named codestar-webapp-go, another stack will be created called as awscodestar-myproject-infrastructure
+Upon successful creation of stack named codestar-webapp-go, another stack will be created called as codestar-webapp-go-infrastructure
 
 Check out their Events, Resources, and Parameters section too.
 
@@ -76,7 +76,7 @@ Check out their Events, Resources, and Parameters section too.
 
 ## Explore project resources created by CodeStar
 
-Lambda function: It contains the logic of the web service, IAM Role, and 1 IAM Policy, CodePipeline pipeline, CodeDeploy application and CodeDeploy deployment group,
+Lambda function: It contains the logic of the web service, IAM Role, and 1 IAM Policy, CodePipeline pipeline, CodeDeploy application and CodeDeploy deployment group, 
 
 CodeCommit repository, CodeBuild Project, CloudFormation stack, Amazon S3 bucket, API in API Gateway.
 
