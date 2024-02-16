@@ -21,7 +21,7 @@ AWS CloudFormation (Configuration Based Resource Creation)
 AWS CodePipeline (Managed CI/CD Pipeline)
 
 
-# AWS Developer tools for CI/VCD
+# AWS Developer tools for CI/CD
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/1b11632d-2649-469f-98fb-b525094418f7)
 
