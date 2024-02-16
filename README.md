@@ -31,5 +31,38 @@ AWS CodePipeline (Managed CI/CD Pipeline)
 
 # 1-Create a Project in AWS CodeStar (MyProject)
 
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/37a9893c-d3c1-4d1c-8da6-d6b17e2d18ca)
+
+## Create service role
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/4e20d681-c7d1-4fa8-8b5a-58deabc55b3a)
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/e8494e71-fb26-488c-81e5-0ddffadee1d4)
+
+## Choose a project template
+
+click on the Search bar present and Select AWS Lambda as AWS Service, Go Web service as the Application Type, and node.js in the Programming language.
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/7d2be176-6f31-4815-883b-f6c8d8cfa61a)
+
+## Set up your project:
+
+Project name: Enter MyProject
+
+Keep all the options as default and click on the Next button.
+
+Select the repository provider. I select Github
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/fbdcbfb2-f4fd-4891-902f-9fcc59718f2a)
+
+
+
+
+
+
+
+
+
+
 
 
