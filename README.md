@@ -203,7 +203,7 @@ On the CloudShel CLI, you will perform all the commands.
 
 Head inside the project folder, by listing the files first and then change the directory, run the below commands.
 
-I change the statement in lambda function (index.py) "Hello word" to 'Hello from CodeStar'
+I change the statement in lambda function (index.py) 'Hello Word' to 'Hello from CodeStar'
 
 I commit the change with git command 
 
@@ -219,52 +219,23 @@ The build phase fail
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/c7bc308d-f48f-4f9c-8591-8e60f2d94b2f)
 
-Log execution build phase
+Log execution build phase. AssertionError: 'Hello World' not found in '{"output": "Hello from CodeStar", "timestamp": "2024-02-17T09:27:43.559932"}'
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/bae965d2-da30-40ad-9223-089179f79736)
 
-Fix the error
+The reason, Unittest of CodeStar is looking for 'Hello word' in the output
 
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/f68f3101-4865-4723-a255-ef427d378655)
 
+Fix the error. Change 'Hello Word' to 'Hello from CodeStar'
 
+Let's change and puh again
 
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/d41267a4-c39d-4fcb-b02e-f87f86bd3f37)
 
+Unittest succeed now. Let's see in the build console
 
-
-
-
-
-
-
-
-
-
-
-## View the Web application
-
-![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/7410a9f2-e1e6-46e9-b69f-c9549f476b2a)
-
-## Explore project resources created by CodeStar
-
-Lambda function: It contains the logic of the web service, IAM Role, and 1 IAM Policy, CodePipeline pipeline, CodeDeploy application 
-
-and CodeDeploy deployment group, CodeCommit repository, CodeBuild Project, CloudFormation stack, Amazon S3 bucket, API in API Gateway.
-
-![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/adc4a62b-73b1-4b37-bed7-a0e8cdc8972b)
-
-##  View the pipeline and differentes phases
-
-![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/aa46bb9b-9777-4810-8f31-3504da9e7ba3)
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/1c4001ca-645e-4431-8db2-39bae80937c2)
 
 
 
