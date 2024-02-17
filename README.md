@@ -237,6 +237,16 @@ Unittest succeed now. Let's see in the build console
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/1c4001ca-645e-4431-8db2-39bae80937c2)
 
+## The pipeline looking
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/4f253c91-43b7-48b2-b72b-4fdfad1eadc6)
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/918530da-eecb-41d5-b30c-3414d60101c5)
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/a1c70e18-6efb-496a-ae32-e0c49a07a1e4)
+
+
+
 
 
 
