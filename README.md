@@ -139,6 +139,41 @@ Click Cloud9
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/011dc84f-3015-4ab8-b565-1fd9ce24cdf4)
 
 
+## Setup Cloud9 workstation to edit project code
+
+Scroll up and click on the Set up AWS Cloud9 button.
+
+On the Create AWS Cloud9 Environment details page,
+
+Instance type: Select t2.micro
+
+VPC: Select default VPC
+
+Subnet: Select any subnet
+
+Environment name: Enter demo
+
+Environment description: Cloud9 environment for editing project code
+
+Cost-saving settings: Select After 1 hour
+
+Click on the Create environment button.
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/0e517855-fb95-4ea2-afea-0fdea7fdb5fb)
+
+
+It may take up to 5 minutes for creating the Cloud9 environment, you can check the same in the CloudFormation console.
+
+In the mean time, let’s check in the CloudFormation console.
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/c904cca1-1963-483e-896a-5a26d6ce4879)
+
+
+
+
+
+
+
 
 
 ## View the Web application
