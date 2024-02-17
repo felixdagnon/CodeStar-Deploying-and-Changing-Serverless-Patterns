@@ -134,7 +134,10 @@ Upon successful creation of stack named codestar-webapp-go, another stack will b
 
 Check out their Events, Resources, and Parameters section too.
 
-![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/4b5cb33f-23b5-4e48-b9cd-b3dd265d1222)
+Click Cloud9
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/011dc84f-3015-4ab8-b565-1fd9ce24cdf4)
+
 
 
 
