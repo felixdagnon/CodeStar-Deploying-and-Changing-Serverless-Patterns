@@ -215,6 +215,19 @@ $ git push origin master
 
 Now the changes are pushed. Let's go to CodeStar
 
+The build phase fail
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/c7bc308d-f48f-4f9c-8591-8e60f2d94b2f)
+
+Log execution build phase
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/bae965d2-da30-40ad-9223-089179f79736)
+
+Fix the error
+
+
+
+
 
 
 
