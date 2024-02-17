@@ -235,6 +235,12 @@ Let's change and puh again
 
 Unittest succeed now. Let's see in the build console
 
+As soon as run the git push command, changes are added to the CodeCommit repository, and the CodePipeline pipeline detects and changes and takes immediate action.
+
+The source stage is where your code is getting updated.
+
+In the build stage, the application’s required files are getting collected and the application is getting build.
+
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/1c4001ca-645e-4431-8db2-39bae80937c2)
 
 # changes are done in the pipeline
