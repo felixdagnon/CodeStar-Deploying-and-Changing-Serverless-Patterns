@@ -162,11 +162,62 @@ Click on the Create environment button.
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/0e517855-fb95-4ea2-afea-0fdea7fdb5fb)
 
 
-It may take up to 5 minutes for creating the Cloud9 environment, you can check the same in the CloudFormation console.
-
-In the mean time, let’s check in the CloudFormation console.
+It may take up to 5 minutes for creating the Cloud9 environment,
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/c904cca1-1963-483e-896a-5a26d6ce4879)
+
+
+ you can check the same in the CloudFormation console. In the mean time, let’s check in the CloudFormation console.
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/8f97d9e7-aeb1-4565-a459-32401430a95b)
+
+
+After 5 minutes, you can see the status as CREATE_COMPLETE.
+
+Go back to the codestar console, switch to the IDE tab, and refresh the page. Upon refreshing, you can see a demo environment is present, click on the Open IDE button.
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/f2c4bab0-c4b3-4f1f-addf-e3845638efb7)
+
+
+Cloud9 will prepare the environment for you, within few moments, you can see the CodeCommit repository getting cloned.
+
+If your Cloud9 page is the same as shown in the below screenshot, you are ready for the next task.
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/d24d63d0-fed1-43c2-824f-1d7c4f0589b7)
+
+
+It's created Lambda, apigateway, CodeCommit repo
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/a37accee-ae96-4d81-9e8d-9d427c4e7c07)
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/2d954cd6-3212-4f79-9060-980dbe4d19a7)
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/8ba63fc3-f6b3-4b97-88cb-b007a1c0de1b)
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/64e28479-9a9f-44cc-ac70-c04c556e3f15)
+
+
+# Add logic to the web service
+
+On the CloudShel CLI, you will perform all the commands.
+
+Head inside the project folder, by listing the files first and then change the directory, run the below commands.
+
+I change the statement in lambda function (index.py) "Hello word" to 'Hello from CodeStar'
+
+I commit the change with git command 
+
+$ git add -A
+
+$ git commit -m "Change Hello Statement"
+
+$ git push origin master
+
+Now the changes are pushed. Let's go to CodeStar
+
+
+
+
 
 
 
