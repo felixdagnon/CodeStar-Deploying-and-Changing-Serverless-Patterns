@@ -257,7 +257,22 @@ Navigate to Projects from the left panel, and click on the project present. Swit
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/a1c70e18-6efb-496a-ae32-e0c49a07a1e4)
 
+
+# Test the application an
+
 Let's go to CodeStar dashbord
+
+Navigate to Projects from the left panel, and click on the project present. Click on the View application to check the output.
+
+The output is the same as the change in index.py in cloud9 console
+
+![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/c2c5035d-be45-4d6a-9061-555a804526df)
+
+
+
+
+
+
 
 
 
