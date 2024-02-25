@@ -4,9 +4,7 @@ CodeStar Deploying and Changing Serverless Patterns
 
 ![image](https://github.com/felixdagnon/CodeStar-Deploying-and-Changing-Serverless-Patterns/assets/91665833/d1c4214d-4023-4d82-b4a0-5398b33b5eee)
 
-
 AWS CodeStar can be used to create, manage and work with software development projects. It helps in developing, building, and deploying applications on AWS with an AWS CodeStar Project.
-
 
 It brings togethers following AWS services-
 
